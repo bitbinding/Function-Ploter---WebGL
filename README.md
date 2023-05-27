@@ -1,2 +1,2 @@
 # Function-Ploter---WebGL
-The Function Ploter that directly called WebGL API
+The Function Ploter that directly called WebGL API, which can plot math expressions from the text input above based on canvas paths with gradient fills. You can type math expression like JavaScript but without the prefix "Math." or sometimes the opeartor "*", and use the operator "," to plot multiple expressions up to 3 (when 3, it will be displayed as a parameter equation). Click the button "Apply" to plot the expressions.
